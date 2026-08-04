@@ -1,5 +1,4 @@
 # Z-criando-um-Dashboard-de-Vendas-do-Xbox-com-Excel 
-(NÃO CONCLUÍDO)
 # 🎮 Dashboard de Vendas do Xbox em Excel
 
 Painel gerencial interativo desenvolvido em **Microsoft Excel** com o objetivo de transformar dados brutos de vendas do Xbox em informações visuais claras e estruturadas, permitindo uma análise eficiente do desempenho comercial e apoiando a tomada de decisões baseada em dados.
@@ -21,6 +20,6 @@ Painel gerencial interativo desenvolvido em **Microsoft Excel** com o objetivo d
 ---
 
 ## 📂 Arquivos no Repositório
-- `dashboard_xbox_finalizado.xlsx`: Planilha principal contendo o painel interativo estruturado.
+- `Z Excel Criando Um Organizador de Declaração de Imposto de Renda .xlsx`: Planilha principal contendo o painel interativo estruturado.
 - `base.xlsx`: Base de dados original utilizada no laboratório.
 - `README.md`: Documentação oficial do projeto.
