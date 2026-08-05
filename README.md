@@ -20,6 +20,6 @@ Painel gerencial interativo desenvolvido em **Microsoft Excel** com o objetivo d
 ---
 
 ## 📂 Arquivos no Repositório
-- `Z Excel Criando Um Organizador de Declaração de Imposto de Renda .xlsx`: Planilha principal contendo o painel interativo estruturado.
+- `Z Dashboard de Vendas do Xbox com Excel.xlsx`: Planilha principal contendo o painel interativo estruturado.
 - `base.xlsx`: Base de dados original utilizada no laboratório.
 - `README.md`: Documentação oficial do projeto.
